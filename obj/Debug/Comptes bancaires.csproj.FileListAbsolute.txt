@@ -1,0 +1,14 @@
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\bin\Debug\Comptes bancaires.exe.config
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\bin\Debug\Comptes bancaires.exe
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\bin\Debug\Comptes bancaires.pdb
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.exe
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.pdb
+C:\Users\Bamb75\source\repos\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\bin\Debug\Comptes bancaires.exe.config
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\bin\Debug\Comptes bancaires.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\bin\Debug\Comptes bancaires.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\Comptes bancaires\Comptes bancaires\obj\Debug\Comptes bancaires.pdb
